@@ -63,6 +63,5 @@ This page will be shown when the user was successfully joined the session.
 ![alt text](https://raw.githubusercontent.com/SEENIVASANIT/Sports_scheduler_nodejs/main/Screenshots/Screenshot%20(120).png)
 Additional Features: Users can reset their password with the old password.
 
-# Demonstration
-[![Watch the video](https://github.com/SEENIVASANIT/Sports_scheduler_nodejs/blob/main/Screenshots/Screenshot%20(107).png)](https://www.loom.com/share/738b1b691aa74cc590f651bd4422d3ba)
+
 
